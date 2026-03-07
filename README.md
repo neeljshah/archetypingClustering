@@ -11,7 +11,10 @@
 
 > *Interactive Power BI dashboard — filter by Team and Player to explore shot profiles, entropy, and tactical classification.*
 
-https://github.com/user-attachments/assets/826387bd-2d60-445d-a724-c76f3babdf90
+
+
+https://github.com/user-attachments/assets/bcf6941e-79d1-450c-9efd-db0a1706835f
+
 
 
 ---
